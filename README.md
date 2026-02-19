@@ -1,10 +1,10 @@
 # Project Title
 
-Simple overview of use/purpose.
+chair bot
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+the chat bot is is still in traning and is not very smart and will not give good or accurate answers
 
 ## Getting Started
 
@@ -36,9 +36,8 @@ command to run if program contains helper info
 ## Authors
 
 Contributors names and contact info
+aitor
 
-ex. Mr Jones
-ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## Version History
 
@@ -50,7 +49,7 @@ ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GNU GPL v3.0 License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
